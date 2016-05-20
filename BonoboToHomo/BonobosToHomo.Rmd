@@ -1,0 +1,16 @@
+---
+title: "From Bonobos to *Homo*"
+subtitle: "Evolutionary Perspectives on Primate Sexual Behavior"
+author: "Trey Batey"
+date: "Community Conversations, Spring 2016"
+output: 
+  ioslides_presentation: 
+    logo: LCC_logo_black-sm.png
+    widescreen: yes
+---
+
+# What does evolution have to do with sexual behavior?
+
+## Evolution requires reproduction.
+
+## Sexual section:  males competition and female choice
