@@ -9,6 +9,10 @@ output:
     widescreen: yes
 ---
 
+# Who are the primates, and how many are there?
+
+## There are about 250 species of primate, depending on whom you ask.
+
 # What does evolution have to do with sexual behavior?
 
 ## Evolution requires reproduction.
