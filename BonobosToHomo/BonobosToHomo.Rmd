@@ -17,6 +17,6 @@ output:
 <img src="http://johnhawks.net/graphics/primate-superfamily-phylogeny.png" width="600">
 </div>
 
-## Evolution and sex reproduction.
+# Primate sexual behavior
 
-# ## Sexual section:  male competition and female choice
+## Primates, like many species, experience <font color="#751aff">sexual selection</font>---males *compete* and females *choose*.
