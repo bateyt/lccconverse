@@ -9,8 +9,14 @@ output:
     widescreen: yes
 ---
 
-# What does evolution have to do with sexual behavior?
+# Who are the primates?
 
-## Evolution requires reproduction.
+## {.flexbox .vcenter}
 
-## Sexual section:  males competition and female choice
+<div class="centered">
+<img src="http://johnhawks.net/graphics/primate-superfamily-phylogeny.png" width="600">
+</div>
+
+## Evolution and sex reproduction.
+
+# ## Sexual section:  male competition and female choice
