@@ -11,23 +11,36 @@ output:
 
 # Who are the primates?
 
-## {.flexbox .vcenter}
+## Generally, we divide primates into <font color="#751aff">grades</font> and <font color="#751aff">clades</font>. What's the difference?
 
 <div class="centered">
-<img src="http://johnhawks.net/graphics/primate-superfamily-phylogeny.png" width="600">
+<figure>
+  <img src="PrimateSuperFamilies.png" width="425">
+  <figcaption><font size="2">Credit: <a href="http://johnhawks.net/explainer/primates/primate-classification-phylogeny/" target="_blank">Primate superfamily phylogeny</a> by John Hawks, CC-BY-NC-ND.</font></figcaption>
+</figure>
 </div>
 
-## Lemurs {.flexbox .vcenter}
+
+## Lemurs are the "primitive" primates living on Madagascar. {.flexbox}
 
 <div class="columns-2">
-  <div class="centered">
-  <img src="lemurs.png" width="500">
-  </div>
 
 <div class="centered">
-<img src="" width="600">
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Baby_Brown_Mouse_Lemur_%28Microcebus_rufus%29_%289632294778%29.jpg/800px-Baby_Brown_Mouse_Lemur_%28Microcebus_rufus%29_%289632294778%29.jpg" width="400">
+  <figcaption><font size="2">Credit: <a href="https://commons.wikimedia.org/wiki/File:Baby_Brown_Mouse_Lemur_(Microcebus_rufus)_(9632294778).jpg" target="_blank">Baby brown mouse lemur</a> by Bernard Dupont, CC-BY-SA 2.0.</font></figcaption>
+</figure>
 </div>
-  
+
+<br>
+
+<div class="centered">
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Microcebus_murinus_-Artis_Zoo,_Amsterdam,_Netherlands-8c.jpg/640px-Microcebus_murinus_-Artis_Zoo,_Amsterdam,_Netherlands-8c.jpg" width="450">
+  <figcaption><font size="2">Credit: <a href="https://commons.wikimedia.org/wiki/File:Microcebus_murinus_-Artis_Zoo,_Amsterdam,_Netherlands-8c.jpg" target="_blank">Gray mouse lemur</a> by Arjan Haverkamp, CC-BY 2.0.</font></figcaption>
+</figure>
+</div>
+
 </div>
 
 
@@ -63,7 +76,7 @@ output:
 
 <div class="columns-2">
   <div class="centered">
-  <img src="cebids.png" width="500">
+  <img src="ceboids.png" width="500">
   </div>
 
 <div class="centered">
@@ -73,6 +86,32 @@ output:
 </div>
 
 
+## Old World Monkeys {.flexbox .vcenter}
+
+<div class="columns-2">
+  <div class="centered">
+  <img src="cercopiths.png" width="500">
+  </div>
+
+<div class="centered">
+<img src="" width="600">
+</div>
+  
+</div>
+
+
+## Apes (including humans) {.flexbox .vcenter}
+
+<div class="columns-2">
+  <div class="centered">
+  <img src="hominoids.png" width="500">
+  </div>
+
+<div class="centered">
+<img src="" width="600">
+</div>
+  
+</div>
 
 # Primate sexual behavior
 
