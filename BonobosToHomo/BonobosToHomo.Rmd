@@ -17,6 +17,21 @@ output:
 <img src="http://johnhawks.net/graphics/primate-superfamily-phylogeny.png" width="600">
 </div>
 
+## {.flexbox .vcenter}
+
+<div class="columns-2">
+  <div class="centered">
+<img src="http://johnhawks.net/graphics/primate-superfamily-phylogeny.png" width="500">
+</div>
+
+  - Bullet 1
+  - Bullet 2
+  - Bullet 3
+</div>
+
+
+
+
 # Primate sexual behavior
 
 ## Primates, like many species, experience <font color="#751aff">sexual selection</font>---males *compete* and females *choose*.
