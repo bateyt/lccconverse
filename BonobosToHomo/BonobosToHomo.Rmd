@@ -17,18 +17,60 @@ output:
 <img src="http://johnhawks.net/graphics/primate-superfamily-phylogeny.png" width="600">
 </div>
 
-## {.flexbox .vcenter}
+## Lemurs {.flexbox .vcenter}
 
 <div class="columns-2">
   <div class="centered">
-<img src="http://johnhawks.net/graphics/primate-superfamily-phylogeny.png" width="500">
+  <img src="lemurs.png" width="500">
+  </div>
+
+<div class="centered">
+<img src="" width="600">
+</div>
+  
 </div>
 
-  - Bullet 1
-  - Bullet 2
-  - Bullet 3
+
+## Lorises and Galagos{.flexbox .vcenter}
+
+<div class="columns-2">
+  <div class="centered">
+  <img src="lorises.png" width="500">
+  </div>
+
+<div class="centered">
+<img src="" width="600">
+</div>
+  
 </div>
 
+
+## Tarsiers {.flexbox .vcenter}
+
+<div class="columns-2">
+  <div class="centered">
+  <img src="tarsiers.png" width="500">
+  </div>
+
+<div class="centered">
+<img src="" width="600">
+</div>
+  
+</div>
+
+
+## New World Monkeys {.flexbox .vcenter}
+
+<div class="columns-2">
+  <div class="centered">
+  <img src="cebids.png" width="500">
+  </div>
+
+<div class="centered">
+<img src="" width="600">
+</div>
+  
+</div>
 
 
 
