@@ -44,44 +44,107 @@ output:
 </div>
 
 
-## Lorises and Galagos{.flexbox .vcenter}
+## *Primitive* because they retain many traits of the earliest primates. {.flexbox}
+
+<div class="columns-2">
+
+<div class="centered">
+<figure>
+  <img src="http://media.eol.org/content/2012/06/15/02/21083_orig.jpg" width="450">
+  <figcaption><font size="2">Credit: <a href="https://commons.wikimedia.org/wiki/File%3ALemur_Catta02.jpg" target="_blank">Ring-tailed lemur</i></a> by Bernard Gagnon, CC-BY-SA 3.0.</font></figcaption>
+</figure>
+</div>
+
+<br>
+<br>
+
+<div class="centered">
+<figure>
+  <img src="http://media.eol.org/content/2014/10/16/23/52255_orig.jpg" height="400">
+  <figcaption><font size="2">Credit: <a href="https://www.flickr.com/photos/berniedup/9598840071/" target="_blank">White-footed sportive lemur</a> by Bernard DUPONT, CC BY-SA 2.0.</font></figcaption>
+</figure>
+</div>
+
+</div>
+
+
+
+## Lorises and galagos are small, nocturnal primates.{.flexbox}
+
+<div class="columns-2">
+
+<br>
+
+<div class="centered">
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Slender_Loris.jpg" width="450">
+  <figcaption><font size="2">Credit: <a href="https://commons.wikimedia.org/wiki/File%3ASlender_Loris.jpg" target="_blank">Gray slender loris</i></a> by Kalyan Varma, CC-BY-SA 4.0.</font></figcaption>
+</figure>
+</div>
+
+<br>
+<br>
+<br>
+
+<div class="centered">
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Galago.jpg" height="425">
+  <figcaption><font size="2">Credit: <a href="https://commons.wikimedia.org/wiki/File%3AGalago.jpg" target="_blank">Galago, or bush-baby</a> by Joachim Huber, CC BY-SA 2.0.</font></figcaption>
+</figure>
+</div>
+
+</div>
+
+
+## Tarsiers...the cutest primate? {.flexbox .vcenter}
+
+<p></p>
 
 <div class="columns-2">
   <div class="centered">
-  <img src="lorises.png" width="500">
+  <img src="tarsiers.png" width="400">
   </div>
 
+<br>
+<br>
+<br>
+
 <div class="centered">
-<img src="" width="600">
+<figure>
+  <img src="https://c2.staticflickr.com/6/5304/5551104129_1b92feed43_b.jpg" width="450">
+  <figcaption><font size="2">Credit: <a href="https://www.flickr.com/photos/peterhellberg/5551104129" target="_blank">Tarsier in the Phillipines</a> by Peter Hellberg, CC BY-SA 2.0.</font></figcaption>
+</figure>
 </div>
+
   
 </div>
 
 
-## Tarsiers {.flexbox .vcenter}
+## New World monkeys have extra premolars and prehensile tales {.flexbox .vcenter}
 
 <div class="columns-2">
-  <div class="centered">
-  <img src="tarsiers.png" width="500">
-  </div>
-
-<div class="centered">
-<img src="" width="600">
-</div>
   
-</div>
-
-
-## New World Monkeys {.flexbox .vcenter}
-
-<div class="columns-2">
-  <div class="centered">
-  <img src="ceboids.png" width="500">
+  <div class="center">
+  <img src="ceboids.png" width="350">
   </div>
+  
+<br>
+<br>
 
-<div class="centered">
-<img src="" width="600">
+  <div class="center">
+  <figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Cebus_capucinus%2C_Costa_Rica.JPG" width="450">
+  <figcaption><font size="2">Credit: <a href="https://commons.wikimedia.org/wiki/File%3ACebus_capucinus%2C_Costa_Rica.JPG" target="_blank">White-faced capuchin monkey</a> by Steven G. Johnson, CC BY-SA 3.0.</font></figcaption>
+  </figure>
+  
+  <!----<p></p>
+
+  <figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Cebus_capucinus%2C_Costa_Rica.JPG" width="200">
+  <figcaption><font size="2">Credit: <a href="https://commons.wikimedia.org/wiki/File%3ACebus_capucinus%2C_Costa_Rica.JPG" target="_blank">White-faced capuchin monkey</a> by Steven G. Johnson, CC BY-SA 3.0.</font></figcaption>
+  </figure>-->
 </div>
+
   
 </div>
 
@@ -113,6 +176,49 @@ output:
   
 </div>
 
-# Primate sexual behavior
+# Primate mating systems
 
-## Primates, like many species, experience <font color="#751aff">sexual selection</font>---males *compete* and females *choose*.
+## Primates vary in social organization, but generally live in complex social groups all year round. {.flexbox .vcenter}
+
+<div class="columns-2">
+  <div class="centered">
+  <img src="hominoids.png" width="500">
+  </div>
+
+<div class="centered">
+<img src="" width="600">
+</div>
+  
+</div>
+
+
+## Primates experience both natural selection and <font color="#751aff">sexual selection</font>---males *compete* and females *choose*. {.flexbox .vcenter}
+
+<div class="columns-2">
+  <div class="centered">
+  <img src="hominoids.png" width="500">
+  </div>
+
+<div class="centered">
+<img src="" width="600">
+</div>
+  
+</div>
+
+
+## {.flexbox}
+
+Sexual dimorphism is coorelated with inter-male competition for mates.
+
+<div class="columns-2">
+  <div class="centered">
+  <img src="HomininDimorph.png" width="200">
+  </div>
+
+<div class="centered">
+<img src="" width="600">
+</div>
+  
+</div>
+
+
